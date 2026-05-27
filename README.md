@@ -7,7 +7,7 @@ Hi, I'm Supriya 👋
  🚀 About Me
 I am a BCA graduate with a strong foundation in Core Java, Data Structures and Algorithms, and Object-Oriented Programming. I enjoy solving problems and building efficient software applications.
 
-I have hands-on experience developing projects like a Network Packet Analyzer, AI-based Search Engine, and Offline UPI System, where I worked on backend logic, algorithm implementation, and system-level design.
+I have hands-on experience developing projects like a Network Packet Analyzer, and Offline UPI System, where I worked on backend logic, algorithm implementation, and system-level design.
 
 
 
