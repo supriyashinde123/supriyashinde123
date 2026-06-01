@@ -1,6 +1,6 @@
 Hi, I'm Supriya 👋
 
-🎓 BCA Graduate | 💻 Java Developer | 📊 DSA Enthusiast  
+🎓 BCA Graduate | 💻 Java Developer | 📊 DSA Learner
 
 
 
